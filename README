@@ -1,0 +1,5 @@
+Include script or code to turn hypentated DOM elements in jQuery objects
+
+example;
+
+<div id="input-area-initial"></div> => inputAreaInitial
